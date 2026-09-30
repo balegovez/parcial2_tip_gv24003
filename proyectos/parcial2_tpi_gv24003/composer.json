@@ -1,0 +1,15 @@
+{
+    "name": "root/parcial2_tpi_gv24003",
+    "description": "Parcial 2 de TPI",
+    "autoload": {
+        "psr-4": {
+            "Cafeteria\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bairon"
+        }
+    ],
+    "require": {}
+}
